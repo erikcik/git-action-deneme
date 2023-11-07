@@ -1,7 +1,7 @@
 name: testing trial for the first time
 on: 
     push:
-        branches: [master]
+        branches: [test]
 jobs:
     build:
         runs-on: ubuntu-latest
